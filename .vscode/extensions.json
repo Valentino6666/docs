@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "codespaces-contrib.codeswing"
+        "codespaces-contrib.codeswing",
+        "davidanson.vscode-markdownlint",
+        "ms-python.vscode-pylance"
     ]
 }
